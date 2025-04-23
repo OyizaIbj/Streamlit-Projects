@@ -3,3 +3,4 @@ matplotlib
 nltk
 streamlit
 string
+speech_recognition
